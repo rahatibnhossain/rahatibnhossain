@@ -21,7 +21,7 @@ Reliable, energetic and creative Web and Mobile Application Developer with proje
 </p>
 
 
-My Email Address : **rahat.hossain@bjitacademy.com**
+My Email Address : **rahatibnhossain@gmail.com**
 
 
 <br>
