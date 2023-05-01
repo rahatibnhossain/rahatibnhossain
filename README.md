@@ -150,10 +150,10 @@ My Email Address : **rahatibnhossain@gmail.com**
 
 
 <h3 align="left">📈 GitHub Stats</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahatbjit" alt="rahatbjit" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahatibnhossain" alt="rahatibnhossain" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahatbjit&show_icons=true&locale=en&layout=compact" alt="rahatbjit" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahatibnhossain&show_icons=true&locale=en&layout=compact" alt="rahatibnhossain" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahatbjit&show_icons=true&locale=en" alt="rahatbjit" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahatibnhossain&show_icons=true&locale=en" alt="rahatibnhossain" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahatbjit&" alt="rahatbjit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rahatibnhossain&" alt="rahatibnhossain" /></p>
