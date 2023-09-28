@@ -27,7 +27,9 @@ My Email Address : **rahatibnhossain@gmail.com**
 <br>
 
 ## Work Experience 💻 
-- **Trainee Software Engineer**, **[BJIT Academy](https://www.bjitacademy.com)**, *April 2023 - Present*
+- **Software Engineer**, **[BJIT](https://www.bjitgroup.com)**, *April 2023 - Present*
+     - Full-stack Web Developer (Java EE) <br>
+- **Trainee Software Engineer**, **[BJIT Academy](https://www.bjitacademy.com)**, *April 2023 - July 2023*
      - Full-stack Web Developer (Java EE) <br>
 - **Intern**, **[Meld](https://www.meldate.online)**, *January 2023 - April 2023*
      - React Native Developer <br>
