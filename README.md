@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahat Ibna Hossain</h1>
 <br> 
+<br> 
+
+<img src="https://readme-typing-svg.demolab.com/?font=Open+Sans&weight=500&size=30&duration=1000&pause=50&color=3FB8FF&width=500&height=45&lines=Software+Engineer+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;%20Backend+Developer+%F0%9F%91%A8%F0%9F%8F%BB;IAM+Engineer+%F0%9F%A5%B7;Fullstack%20Developer%F0%9F%9A%80;AI+Enthusiast+%F0%9F%9B%A0%EF%B8%8F" />
 
 ## About Me 🤵
 <p align="justify">
